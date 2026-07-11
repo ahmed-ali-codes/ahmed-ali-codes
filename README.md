@@ -126,18 +126,6 @@ Collection of Python scripts — currency converter, number guessing game, autom
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ali-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ali-codes&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for remote roles as an **AI Automation Engineer, Generative AI Engineer, or Full-Stack Developer**.
