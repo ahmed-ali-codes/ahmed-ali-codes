@@ -115,14 +115,17 @@ Collection of Python scripts — currency converter, number guessing game, autom
 
 ## 💼 Experience Highlights
 
-**Ecotrustia Solutions** — AI Automation Engineer & Full-Stack Developer *(Sep 2024–Present)*
-> Built end-to-end AI automation workflows (n8n, GPT-4o, WhatsApp Business API) and full-stack web/SaaS products (React, Supabase, Stripe) for UAE SMEs
+**Ecotrustia Solutions** — *AI Automation Engineer & Full-Stack Developer (Sep 2024–Present)*
+Built end-to-end AI automation workflows (n8n, GPT-4o, WhatsApp Business API) and full-stack web/SaaS products (React, Supabase, Stripe) for UAE SMEs, from architecture through deployment.
 
-**Al Ensaf Car Towing Services** — Full Stack Developer *(Jan 2022–Jun 2026)*
-> Built company web app from scratch; 60% increase in lead generation, 80% boost in user engagement
+**Al Ensaf Car Towing Services** — *Full-Stack Developer (Jan 2022–Jun 2026)*
+Built, deployed, and maintained a full-stack web application (PHP, JavaScript, MySQL, AWS EC2) from scratch — 60% increase in lead generation, 80% boost in user engagement.
 
-**RT Welfare & Donations** — Founder & Director *(2017–Present)*
-> Designed, built, and maintained the entire platform; 50% increase in donor sign-ups
+**Ghazal Al Wadi Transport** — *Full-Stack Developer & Cloud Engineer (2023–2025)*
+Designed and built a full-stack web application from the ground up, deployed on AWS EC2 with CI/CD pipelines via GitHub Actions.
+
+**RT Welfare & Donations** — *Founder & Director, Nonprofit (2017–Present, Volunteer)*
+Designed, built, and maintained the full donor platform — 50% increase in donor sign-ups, 50+ blood donation drives, 2000+ registered donors.
 
 ---
 
