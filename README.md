@@ -137,5 +137,12 @@ I'm actively looking for remote roles as an **AI Automation Engineer, Generative
 ---
 
 <div align="center">
+
+![snake gif](https://raw.githubusercontent.com/ahmed-ali-codes/ahmed-ali-codes/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/ahmed-ali-codes/ahmed-ali-codes/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+<div align="center">
 <sub>Built with ☕ and late nights in Dubai 🌆</sub>
 </div>
