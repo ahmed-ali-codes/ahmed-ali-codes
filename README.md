@@ -73,23 +73,17 @@ Fully automated n8n workflow for UK Lead Generation & AI Call Agent — Google M
 ### 🎬 [AI Shorts Automation PRO](https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows/tree/main/ai-shorts-automation-pro)
 A fully automated n8n workflow that discovers viral trends, scores virality with AI tools, generates an AI avatar script, produces the video via HeyGen, and publishes straight to YouTube on autopilot.
 
+### ⚡ [Veltrix — AI Agent SaaS Dashboard](https://github.com/ahmed-ali-codes/veltrix-saas-app)
+A production-grade SaaS dashboard for AI agents and workflow automations — full auth (email + Google OAuth), real-time notifications, role-based access control, and an in-app AI assistant panel. Built with React 19, Supabase, and Cloudflare Workers.
+
+### 🚜 [GTS Transport — Machinery Rental Platform](https://github.com/ahmed-ali-codes/gts-transport)
+A responsive machinery and heavy equipment rental platform with an AI-powered chat widget for customer assistance, built with React 19, TypeScript, and the Gemini API.
+
 ### 🌊 [Swash Water Purification Website](https://swashwater.ae)
 Responsive, SEO-optimized website for a UAE water purification company. Built with HTML/CSS/JavaScript frontend, PHP + MySQL backend, deployed on Linux with GitHub version control.
 
-### 💰 [User Currency Management System (C)](https://github.com/ahmed-ali-codes/user_currency_management_C_Project)
-Console-based financial management app in C — supports adding, updating, searching records, file handling, data validation, and CSV export.
-
-### 🎢 [Theme Park Simulator (Python)](https://github.com/ahmed-ali-codes/python-projects/tree/main/theme-park-simulator)
-Simulation of theme park operations using OOP, event-driven design, and algorithmic data structures in Python.
-
 ### 🤝 [RT Welfare & Donations Platform](https://rtwelfareanddonations.com)
 Full donor management system with registration, search/filter, CRUD operations. Built in JS + PHP + MySQL, hosted on Linux.
-
-### 🔧 [Assembly Language Projects](https://github.com/ahmed-ali-codes/Assembly_language_project)
-Low-level programs covering memory management, register operations, and hardware-software interaction.
-
-### 🐍 [Python Automation & Utilities](https://github.com/ahmed-ali-codes/python-projects)
-Collection of Python scripts — currency converter, number guessing game, automation tools, all with clean code and documentation.
 
 ---
 
