@@ -76,6 +76,9 @@ A fully automated n8n workflow that discovers viral trends, scores virality with
 ### ⚡ [Veltrix — AI Agent SaaS Dashboard](https://github.com/ahmed-ali-codes/veltrix-saas-app)
 A production-grade SaaS dashboard for AI agents and workflow automations — full auth (email + Google OAuth), real-time notifications, role-based access control, and an in-app AI assistant panel. Built with React 19, Supabase, and Cloudflare Workers.
 
+### 🗂️ [Solo Client Hub](https://github.com/ahmed-ali-codes/solo-client-hub)
+An all-in-one client management platform for freelancers — client tracking, task management, encrypted credential vault, multi-currency payment logging, and smart automated reminders. Built with TanStack Start, Supabase (Postgres + RLS), and Cloudflare Workers.
+
 ### 🚜 [GTS Transport — Machinery Rental Platform](https://github.com/ahmed-ali-codes/gts-transport)
 A responsive machinery and heavy equipment rental platform with an AI-powered chat widget for customer assistance, built with React 19, TypeScript, and the Gemini API.
 
