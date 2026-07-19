@@ -64,23 +64,14 @@ I'm an **Information Technology student at Curtin University Dubai** with hands-
 ### 🛠️ [MiniOS — Zero to Kernel](https://github.com/ahmed-ali-codes/zero-to-kernel)
 A minimal x86 operating system built from scratch in C99 and x86 Assembly — featuring a custom bootloader, VGA driver, keyboard/mouse drivers, memory manager, and interactive shell. No Linux. No stdlib. Pure bare metal.
 
-### 📱 [n8n WhatsApp AI Agent](https://github.com/ahmed-ali-codes/n8n-whatsapp-ai-agent)
-An always-on AI agent built on n8n that handles inbound WhatsApp queries — classifying intent, generating instant replies using Claude, escalating complex cases to a human, and logging to Google Sheets.
+### 🤖 [WhatsApp Customer Service Agent](https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows/tree/main/whatsapp-customer-service-agent)
+An always-on n8n agent that handles inbound WhatsApp queries — classifying intent and generating instant replies using Claude, escalating complex cases to a human, and logging to Google Sheets.
 
-### 🎯 [n8n Lead Gen & AI Call Agent](https://github.com/ahmed-ali-codes/n8n-leadgen-call-agent)
-Fully automated n8n workflow for UK Lead Generation & AI Call Agent — Google Maps scraping, Claude AI website analysis, and Twilio automated outbound calling.
+### 📞 [UK Lead Gen & AI Call Agent](https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows/tree/main/uk-leadgen-call-agent)
+Fully automated n8n workflow for UK Lead Generation & AI Call Agent — Google Maps scraping, Claude website analysis, and Twilio automated outbound calling.
 
-### 📢 [Social Media Automation Workflow (n8n)](https://github.com/ahmed-ali-codes/social-media-automation-workflow-n8n)
-AI-powered n8n workflow for automated social media posting — researches trends with Perplexity AI, generates content with GPT-4o & DALL-E 3, and posts to LinkedIn, X, Instagram, and Facebook.
-
-### 🎬 [n8n AI YouTube Shorts Automation](https://github.com/ahmed-ali-codes/n8n-ai-youtube-shorts-automation)
-A fully automated n8n workflow that discovers AI tools, scores virality, generates an AI avatar script, produces the video via HeyGen, and publishes straight to YouTube on autopilot.
-
-### ✉️ [n8n AI Cold Email Agent](https://github.com/ahmed-ali-codes/n8n-ai-cold-email-agent)
-AI-powered cold email agent built with n8n — automates outreach, lead generation (Relevance AI, Perplexity, OpenAI), smart follow-ups, and opt-outs via Google Sheets & Gmail.
-
-### 🛒 [WhatsApp Order Management (n8n)](https://github.com/ahmed-ali-codes/whatsapp-order-management-n8n)
-Fully automated WhatsApp AI agent for order management using n8n, OpenAI, and Google Sheets — handles customer inquiries, tracks orders, and manages inventory.
+### 🎬 [AI Shorts Automation PRO](https://github.com/ahmed-ali-codes/n8n-ai-automation-workflows/tree/main/ai-shorts-automation-pro)
+A fully automated n8n workflow that discovers viral trends, scores virality with AI tools, generates an AI avatar script, produces the video via HeyGen, and publishes straight to YouTube on autopilot.
 
 ### 🌊 [Swash Water Purification Website](https://swashwater.ae)
 Responsive, SEO-optimized website for a UAE water purification company. Built with HTML/CSS/JavaScript frontend, PHP + MySQL backend, deployed on Linux with GitHub version control.
